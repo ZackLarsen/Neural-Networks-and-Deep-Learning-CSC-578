@@ -7,3 +7,4 @@ Something I want to investigate is whether different flavors of LSTM networks ca
 Time permitting, I will try to create a generative adversarial network to enhance the performance of the networks so that they will get better at both discriminating between different authors and generating new content in the style of the authors.
 
 The training for these models took place in TensorFlow, with calls to the keras API.
+ 
